@@ -26,7 +26,7 @@ const sumant = {
   },
   currentFocus: "Building scalable full-stack applications",
   techStack: {
-    backend: ["Node.js", "Express.js", "REST APIs", "JWT Authentication", "Redis", "Swagger"],
+    backend: ["Node.js", "Express.js", "REST API", "JWT Authentication", "Redis", "Swagger"],
     frontend: ["React", "Next.js", "Redux", "Tailwind CSS", "Bootstrap", "Material UI"],
     databases: ["MongoDB", "MySQL"],
     tools: ["Git", "Docker", "Postman", "VS Code"]
