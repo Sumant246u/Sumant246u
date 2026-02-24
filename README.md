@@ -1,107 +1,73 @@
-<!-- Animated Header -->
+<!-- Premium Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sumant%20Sahoo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=180&section=header&text=Sumant%20Sahoo&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Professional Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Next.js+Specialist;Node.js+%7C+MongoDB+Backend;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3ECF8E&size=24&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Specialist;React+%7C+Next.js+Expert;Building+Scalable+Web+Applications" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 ```javascript
 const sumant = {
   role: "MERN Stack Developer",
   experience: "2+ Years JavaScript",
-  location: "Hyderabad, India",
-  specialization: "Frontend Development",
-  stack: ["React", "Next.js", "Node.js", "Express", "MongoDB"],
-  focus: "Performance, Scalability & Clean Architecture"
+  specialization: "Frontend Engineering",
+  stack: ["React.js", "Next.js", "Node.js", "Express.js", "MongoDB"],
+  focus: "Performance Optimization & Scalable Architecture",
+  location: "Hyderabad, India"
 };
 ```
 
+I build modern, responsive, and scalable web applications with a strong focus on clean architecture, reusable components, and performance optimization.
+
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 Tech Stack
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
 </p>
 
 ### 🧠 Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb" />
 </p>
 
-### ⚙ Tools
+### ⚙ Development Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sumant14&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sumant14&theme=tokyonight&hide_border=true&border_radius=12"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sumant14&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sumant14&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumant14&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumant14&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumant14&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 🎯 Core Strengths
 
-### 🛒 GreenCart – Grocery Delivery Platform
-- React + Tailwind CSS  
-- Authentication System  
-- Cart & Checkout  
-- Global Product Search  
-- Fully Responsive  
-
-🔗 https://greencartweb.netlify.app/
-
----
-
-### 🎭 Private Theater Booking Platform
-- Responsive UI (HTML, CSS, JS, Bootstrap)  
-- Dynamic Event Booking + Add-ons  
-- Integrated with Laravel Backend  
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumant14&theme=tokyo-night&hide_border=true"/>
-</p>
+✔ Clean & Maintainable Code  
+✔ Reusable Component Architecture  
+✔ REST API Integration  
+✔ JWT Authentication  
+✔ MongoDB Schema Design  
+✔ Responsive & Modern UI  
+✔ Performance Optimization  
 
 ---
 
@@ -109,17 +75,15 @@ const sumant = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumant14">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:sumant.sahoo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">⚡ Code. Build. Scale. Repeat.</h3>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=100&section=footer"/>
 </p>
