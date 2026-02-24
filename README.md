@@ -20,14 +20,14 @@
 
 Hey! I'm **Sumant Sahoo**, a passionate **MERN Stack Developer** from **Hyderabad, India** 🌍.
 
-I specialize in building scalable, production-ready web applications across the full stack — from designing responsive user interfaces in **React & Next.js** to developing secure REST APIs with **Node.js & Express**, and structuring optimized databases using **MongoDB**.
+I build scalable, production-ready web applications across the full stack — from responsive frontend interfaces in **React & Next.js** to secure backend APIs using **Node.js & Express**, with optimized data modeling in **MongoDB**.
 
-With hands-on experience in real-world projects including a private theater booking platform and a grocery delivery system, I focus on clean architecture, performance optimization, and maintainable code.
+I focus on performance, clean architecture, authentication systems, and scalable backend design.
 
-- 🎯 **Mission**: Build scalable systems that solve real-world problems.
-- 🔧 **Currently building**: Full-stack applications with JWT authentication and role-based access.
-- 📚 **Learning**: Advanced backend architecture, system design & scalability.
-- ⚡ **Mindset**: Clean code. Scalable systems. Real impact.
+- 🎯 **Mission**: Build systems that scale and solve real-world problems.
+- 🔧 **Currently building**: JWT-based authentication systems with role management.
+- 📚 **Learning**: System Design, Advanced Backend Architecture, Caching strategies.
+- ⚡ **Mindset**: Clean Code • Scalable Systems • Practical Engineering.
 
 ---
 
@@ -44,6 +44,7 @@ With hands-on experience in real-world projects including a private theater book
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0088CC?style=flat-square)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ### 🎨 Front-End
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -51,30 +52,15 @@ With hands-on experience in real-world projects including a private theater book
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### 🗄️ Database
+### 🗄️ Database & Caching
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🔥 Featured Projects
-
-### 🛒 Grocery Delivery Web Application
-> A full-featured online grocery platform built with modern frontend architecture.
-- **Features**: Authentication, global product search, cart & checkout system.
-- **Tech**: React.js, Tailwind CSS, Node.js, Express.js, MongoDB.
-- **Focus**: Reusable components & performance optimization.
-
-### 🎭 Private Theater Booking Platform
-> A responsive event booking platform with customizable add-ons.
-- **Features**: Dynamic booking, event add-ons (decorations & cakes).
-- **Tech**: HTML5, CSS3, JavaScript, Bootstrap (Frontend), Laravel (Backend integration).
-- **Impact**: Improved UI responsiveness and seamless frontend-backend integration.
 
 ---
 
@@ -99,5 +85,5 @@ With hands-on experience in real-world projects including a private theater book
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumant14&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sumant14&style=flat-square&color=blue" />
 </p>
