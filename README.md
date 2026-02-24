@@ -18,16 +18,16 @@
 
 ## 🌟 Who Am I?
 
-Hey! I'm **Sumant Sahoo**, a passionate **MERN Stack Developer** from **Hyderabad, India** 🌍.
+Hey! I'm **Sumant Sahoo**, a passionate **MERN Stack Developer** from **Hyderabad, India**.
 
 I build scalable, production-ready web applications across the full stack — from responsive frontend interfaces in **React & Next.js** to secure backend APIs using **Node.js & Express**, with optimized data modeling in **MongoDB**.
 
-I focus on performance, clean architecture, authentication systems, and scalable backend design.
+I focus on clean architecture, authentication systems, caching strategies, and scalable backend design.
 
-- 🎯 **Mission**: Build systems that scale and solve real-world problems.
-- 🔧 **Currently building**: JWT-based authentication systems with role management.
-- 📚 **Learning**: System Design, Advanced Backend Architecture, Caching strategies.
-- ⚡ **Mindset**: Clean Code • Scalable Systems • Practical Engineering.
+- 🎯 Mission: Build systems that scale and solve real-world problems  
+- 🔧 Currently building: JWT-based authentication with role management  
+- 📚 Learning: System Design & Advanced Backend Architecture  
+- ⚡ Mindset: Clean Code • Scalable Systems • Practical Engineering  
 
 ---
 
@@ -44,7 +44,6 @@ I focus on performance, clean architecture, authentication systems, and scalable
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0088CC?style=flat-square)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ### 🎨 Front-End
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -60,6 +59,7 @@ I focus on performance, clean architecture, authentication systems, and scalable
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -79,10 +79,8 @@ I focus on performance, clean architecture, authentication systems, and scalable
 
 ## 📬 Let's Connect
 
-- 📧 **Email**: [sumant.sahoo@gmail.com](mailto:sumant.sahoo@gmail.com)
-- 💼 **LinkedIn**: [Sumant Sahoo](https://linkedin.com/in/sumant14)
-
----
+- 📧 Email: sumant.sahoo@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/sumant14  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sumant14&style=flat-square&color=blue" />
