@@ -40,7 +40,7 @@ const sumant = {
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0088CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-0088CC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JWT-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
