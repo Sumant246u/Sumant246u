@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/STATUS-Building%20MERN%20Apps-3B82F6?style=flat-square" />
   <img src="https://img.shields.io/badge/FOCUS-Full--Stack%20Development-10B981?style=flat-square" />
 </p>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 💫 About Me
 
