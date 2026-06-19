@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:sumantsahoo293@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/sumant14"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sumant14/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Sumant246u"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -219,6 +219,6 @@ Role: Full-stack development & deployment
 
 <p align="center">
   <a href="mailto:sumantsahoo293@gmail.com"><img src="https://img.shields.io/badge/Email-sumant.sahoo%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="www.linkedin.com/in/sumant14"><img src="https://img.shields.io/badge/LinkedIn-Sumant%20Sahoo-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/sumant14/"><img src="https://img.shields.io/badge/LinkedIn-Sumant%20Sahoo-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/Sumant246u"><img src="https://img.shields.io/badge/GitHub-Sumant246u-black?style=for-the-badge&logo=github" /></a>
 </p>
