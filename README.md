@@ -144,66 +144,67 @@ Role: Full-stack development & deployment
 </p>
 
 <table>
-  <tr>
-    <td width="33%" align="center">
+<tr>
+<td align="center" width="33%">
 
-### 🗄️ MySQL (Basic)
+<b>🗄️ MySQL (Basic)</b>
 
-✔️ Database Fundamentals  
-✔️ SQL Queries & Filtering  
-✔️ Joins & Relationships  
-✔️ Data Manipulation  
+<br><br>
 
-**Platform:** HackerRank
+✔️ Database Fundamentals<br>
+✔️ SQL Queries & Filtering<br>
+✔️ Joins & Relationships<br>
+✔️ Data Manipulation<br><br>
 
-    </td>
-    <td width="33%" align="center">
+<b>Platform:</b> HackerRank
 
-### ⚛️ React (Basic)
+</td>
 
-✔️ Components & JSX  
-✔️ Props & State  
-✔️ Event Handling  
-✔️ React Fundamentals  
+<td align="center" width="33%">
 
-**Platform:** HackerRank
+<b>⚛️ React (Basic)</b>
 
-    </td>
-    <td width="33%" align="center">
+<br><br>
 
-### 📜 JavaScript (Basic)
+✔️ Components & JSX<br>
+✔️ Props & State<br>
+✔️ Event Handling<br>
+✔️ React Fundamentals<br><br>
 
-✔️ Variables & Data Types  
-✔️ Functions & Scope  
-✔️ Arrays & Objects  
-✔️ ES6 Fundamentals  
+<b>Platform:</b> HackerRank
 
-**Platform:** HackerRank
+</td>
 
-    </td>
-  </tr>
+<td align="center" width="33%">
+
+<b>📜 JavaScript (Basic)</b>
+
+<br><br>
+
+✔️ Variables & Data Types<br>
+✔️ Functions & Scope<br>
+✔️ Arrays & Objects<br>
+✔️ ES6 Fundamentals<br><br>
+
+<b>Platform:</b> HackerRank
+
+</td>
+</tr>
 </table>
 
 <p align="center">
   <a href="YOUR_MY_SQL_CERTIFICATE_LINK">
-    <img src="https://img.shields.io/badge/View-MySQL%20Certificate-3B82F6?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/View-MySQL%20Certificate-3B82F6?style=for-the-badge" />
   </a>
+
   <a href="YOUR_REACT_CERTIFICATE_LINK">
-    <img src="https://img.shields.io/badge/View-React%20Certificate-3B82F6?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/View-React%20Certificate-3B82F6?style=for-the-badge" />
   </a>
+
   <a href="YOUR_JAVASCRIPT_CERTIFICATE_LINK">
-    <img src="https://img.shields.io/badge/View-JavaScript%20Certificate-3B82F6?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/View-JavaScript%20Certificate-3B82F6?style=for-the-badge" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Certifications-3-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Platform-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
-</p>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## ✨ GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sumant246u&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
