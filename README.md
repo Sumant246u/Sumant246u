@@ -137,6 +137,19 @@ Role: Full-stack development & deployment
 - Designed clean, scalable frontend & backend architectures
 - Integrated JWT, Redis caching, and Swagger APIs
 
+## 🎓 Certifications
+
+| Certification | Platform | Credential |
+|--------------|----------|------------|
+| MySQL (Basic) | HackerRank | ✅ Certified |
+| React (Basic) | HackerRank | ✅ Certified |
+| JavaScript (Basic) | HackerRank | ✅ Certified |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Certifications-3-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-HackerRank-green?style=for-the-badge&logo=hackerrank" />
+</p>
+
 ## ✨ GitHub Stats
 
 <p align="center">
