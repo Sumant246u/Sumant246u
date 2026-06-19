@@ -143,7 +143,7 @@ Role: Full-stack development & deployment
   <img src="https://img.shields.io/badge/HackerRank-Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </p>
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="33%">
 
