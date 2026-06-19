@@ -139,16 +139,69 @@ Role: Full-stack development & deployment
 
 ## 🎓 Certifications
 
-| Certification | Platform | Credential |
-|--------------|----------|------------|
-| MySQL (Basic) | HackerRank | ✅ Certified |
-| React (Basic) | HackerRank | ✅ Certified |
-| JavaScript (Basic) | HackerRank | ✅ Certified |
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerRank-Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</p>
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+
+### 🗄️ MySQL (Basic)
+
+✔️ Database Fundamentals  
+✔️ SQL Queries & Filtering  
+✔️ Joins & Relationships  
+✔️ Data Manipulation  
+
+**Platform:** HackerRank
+
+    </td>
+    <td width="33%" align="center">
+
+### ⚛️ React (Basic)
+
+✔️ Components & JSX  
+✔️ Props & State  
+✔️ Event Handling  
+✔️ React Fundamentals  
+
+**Platform:** HackerRank
+
+    </td>
+    <td width="33%" align="center">
+
+### 📜 JavaScript (Basic)
+
+✔️ Variables & Data Types  
+✔️ Functions & Scope  
+✔️ Arrays & Objects  
+✔️ ES6 Fundamentals  
+
+**Platform:** HackerRank
+
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Certifications-3-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-HackerRank-green?style=for-the-badge&logo=hackerrank" />
+  <a href="YOUR_MY_SQL_CERTIFICATE_LINK">
+    <img src="https://img.shields.io/badge/View-MySQL%20Certificate-3B82F6?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="YOUR_REACT_CERTIFICATE_LINK">
+    <img src="https://img.shields.io/badge/View-React%20Certificate-3B82F6?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="YOUR_JAVASCRIPT_CERTIFICATE_LINK">
+    <img src="https://img.shields.io/badge/View-JavaScript%20Certificate-3B82F6?style=for-the-badge&logo=javascript&logoColor=white" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Certifications-3-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Platform-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+</p>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## ✨ GitHub Stats
 
