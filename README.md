@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sumant.sahoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sumant14"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sumantsahoo293@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/sumant14"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Sumant246u"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -193,15 +193,15 @@ Role: Full-stack development & deployment
 </table>
 
 <p align="center">
-  <a href="YOUR_MY_SQL_CERTIFICATE_LINK">
+  <a href="https://www.hackerrank.com/certificates/e50753263dec">
     <img src="https://img.shields.io/badge/View-MySQL%20Certificate-3B82F6?style=for-the-badge" />
   </a>
 
-  <a href="YOUR_REACT_CERTIFICATE_LINK">
+  <a href="https://www.hackerrank.com/certificates/9792d849e76c">
     <img src="https://img.shields.io/badge/View-React%20Certificate-3B82F6?style=for-the-badge" />
   </a>
 
-  <a href="YOUR_JAVASCRIPT_CERTIFICATE_LINK">
+  <a href="https://www.hackerrank.com/certificates/3611d4019281">
     <img src="https://img.shields.io/badge/View-JavaScript%20Certificate-3B82F6?style=for-the-badge" />
   </a>
 </p>
@@ -218,7 +218,7 @@ Role: Full-stack development & deployment
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:sumant.sahoo@gmail.com"><img src="https://img.shields.io/badge/Email-sumant.sahoo%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/sumant14"><img src="https://img.shields.io/badge/LinkedIn-Sumant%20Sahoo-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:sumantsahoo293@gmail.com"><img src="https://img.shields.io/badge/Email-sumant.sahoo%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="www.linkedin.com/in/sumant14"><img src="https://img.shields.io/badge/LinkedIn-Sumant%20Sahoo-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/Sumant246u"><img src="https://img.shields.io/badge/GitHub-Sumant246u-black?style=for-the-badge&logo=github" /></a>
 </p>
